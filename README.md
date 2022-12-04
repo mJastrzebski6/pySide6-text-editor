@@ -1,0 +1,1 @@
+# pySide6-text-editor
